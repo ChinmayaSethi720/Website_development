@@ -1,0 +1,228 @@
+<!doctype html>
+<html>
+
+<head>
+<title>PUBG(Player's Unknown Battle Ground</title>
+<metaname="description" content="Find out more about the Weapons, and equipments of pubg. Everything starting from pistols to rocket launchers are described here."/>
+<metaname="keywords" contents="pubg, guns,throwables, equipments, maps"/>
+<meta http-equiv="author" content="Chinmaya Priyadarshan Sethi"/>
+<meta http-equiv=" content-lannguage" content="en-us"/>
+</head>
+
+<body>
+
+<h1>This webpage gives brief description about different guns and equipments of PUBG</h1>
+
+<h1>PUBG</h1>
+<p> <img src="games-pubg-playerunknowns-battlegrounds-45158.jpg"  width="1000" height=600 title="PUBG" alt="pubg"> </p>
+<!--this is for inserting image-->
+<br>
+<p> Pubg theme song:</P>
+<audio controls autoplay loop>
+	<source src="PUBGtheme.mp3"/>
+	<source src="PUBGtheme.wav"/>
+</audio>
+<br>
+<br>
+<br>
+
+<form action="" method="">
+
+<label for ="search"> Search PUBG:</label>
+<input type= "text" id= "search"  name="">
+
+</form>
+
+<p>There are different varities of guns that can be classified into:
+<br>
+<ol>
+<li><a href="#pistols">Pistols</a></li>
+<li><a href="#assault rifles">Assault Rifles</a></li>
+<li><a href="#sniper rifles">Sniper Rifles</a></li>
+</ol>
+</p>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+
+<a name="pistols">
+<h2>1. Pistols</h2>
+<p>
+<ul>
+<li>Pistols are basically hand guns(one handed) that contains 7-10 bullets.</li>
+<li>Scopes cannot  be equipped with these guns.</li>
+<li>only red dot sight and holographic sight can be equipped to aim with these guns.</li>
+</ul>
+</p></a>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+<a name = "assault rifles">
+<h2>2. Assault Rifles</h2>
+<p>
+<ul>
+<li>Automatic weapons that fires 30-47 rounds of bullets are consideres as assault rifle.</li>
+<li>Sight can be added starting from red dot sight to 6x in these weapons.</li>
+</ul>
+</p></a>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+<a name= "sniper rifles">
+<h2>3. Sniper Rifles</h2>
+<p>
+<ul>
+<li>These are the only weapons in which 8x(the longest scope) can be attached.</li>
+<li>These weapons generally have larger damage in comparison to the others.</li>
+<li>This category also contains the weapon with the greatest damage i.e. AWM that can pierce a level 3 helmet with ease.</li>
+</ul>
+</p></a>
+
+<br>
+<br>
+<br>
+<fieldset>
+<legend>Table of different types of weapons</legend>
+<table>
+
+<tr>
+	<th>pistols</th>
+	<th>assault rifles</th>
+	<th>SMG</th>
+	<th>sniper rifles</th>
+</tr>
+
+<tr>
+	<td>P18C</td>
+	<td>M416</td>
+	<td>thompson</td>
+	<td>awm</td>
+</tr>
+<tr>
+	<td>P92</td>
+	<td>AKM</td>
+	<td>vector</td>
+	<td>M24</td>
+</tr>
+
+</table>
+</fieldset>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<form>
+With in the range of 0  to 10 how much do you like PUBG:<br>
+<input type="number" min="0" max="10">
+</form>
+<br><br>
+<br><br>
+<br><br>
+
+<form>
+Enter your queries here:<br>
+<textarea rows="10" column="10"></textarea>
+<input type="submit" value="submit">
+<br>
+Do you like my webpage:<br>
+Yes:
+<input type="radio" name="select"></br>
+No:
+<input type="radio" name="select">
+<br>
+<select>
+Which map do you like the most:<br>
+<option value="Erangel">Erangel</option>
+<option value="Miramar">Miramar</option>
+<option value="Sanhok">Sanhok</option>
+<option value="Vikindi">Vikindi</option>
+</select>
+<br>
+<br>
+Tick mark the guns you like :<br>
+<input type="checkbox">M416<br>
+<input type="checkbox">AKM<br>
+<input type="checkbox">SCAR-L<br>
+<input type="checkbox">AWM<br>
+Enter your birthdate:
+<input type="date" name="day"><br>
+<input type="submit" value="submit">
+
+
+</form><br>
+
+<a href="https://rankedboost.com/playerunknowns-battlegrounds/">
+check out more description on PUBG weapons, attachments and thorowables here</a>
+
+</body>
+
+</html>
